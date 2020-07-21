@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gdrive-copy-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gdrive-copy-app/static/js/main.0e52f0f1.chunk.js",
+    "main.js.map": "/gdrive-copy-app/static/js/main.0e52f0f1.chunk.js.map",
+    "runtime-main.js": "/gdrive-copy-app/static/js/runtime-main.d486441b.js",
+    "runtime-main.js.map": "/gdrive-copy-app/static/js/runtime-main.d486441b.js.map",
+    "static/css/2.57221572.chunk.css": "/gdrive-copy-app/static/css/2.57221572.chunk.css",
+    "static/js/2.ec807a80.chunk.js": "/gdrive-copy-app/static/js/2.ec807a80.chunk.js",
+    "static/js/2.ec807a80.chunk.js.map": "/gdrive-copy-app/static/js/2.ec807a80.chunk.js.map",
+    "index.html": "/gdrive-copy-app/index.html",
+    "precache-manifest.0b918446f227acb68f9f8460845bfc3c.js": "/gdrive-copy-app/precache-manifest.0b918446f227acb68f9f8460845bfc3c.js",
+    "service-worker.js": "/gdrive-copy-app/service-worker.js",
+    "static/css/2.57221572.chunk.css.map": "/gdrive-copy-app/static/css/2.57221572.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/gdrive-copy-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ec807a80.chunk.js.LICENSE.txt": "/gdrive-copy-app/static/js/2.ec807a80.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/gdrive-copy-app/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d486441b.js",
+    "static/css/2.57221572.chunk.css",
+    "static/js/2.ec807a80.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0e52f0f1.chunk.js"
+  ]
+}
